@@ -1,0 +1,14 @@
+By comparing the differences between the old and new version, it is easier to find the typo and also can make you notice that if you make any changes you don't want to.
+
+You can recover the former version if you accidentally delete some important code.
+
+Pros: make just right size when you choose to create a  commit, easy to read.
+Cons: may be forget to commit after a long time.
+
+If depends on the contents they store, for example, programmers use git to track their program, usually containing mulfi-files that related with each other. People use google docs to store some independent or seperately things.
+
+Using git log, I can get a whole history of the files, I can see all the commits made before. Using git diff, I can get to know what changes had been made between two versions of files.
+
+It keeps track of all the former information. So even if I messed up something currently, I can find some former versions of it and get it recovered.
+
+Use it for version control of one of my project.
