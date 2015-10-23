@@ -1,0 +1,3 @@
+It initializes an empty git repository. Git would not do it for you.
+
+It is an intermediate stage between the working directory and the repository. It offers those files that are prepared to be commited.
